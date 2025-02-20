@@ -1,0 +1,5 @@
+<net.skyscanner.backpack.text.BpkText
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Flight Number: AB123"
+    style="@style/bpkTextHeading1"/>

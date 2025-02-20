@@ -1,0 +1,7 @@
+ 
+<net.skyscanner.backpack.card.BpkCardView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cornerStyle="large"
+    app:cardElevation="4dp"
+    app:cardPadding="16dp"/>
